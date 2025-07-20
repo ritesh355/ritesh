@@ -3,8 +3,6 @@
 🕒 Created: Friday 18 July 2025 04:22:33 PM IST
 
 
-# 🤖 AutoGit for Existing Projects – Bash Script
-
 **AutoGit** is a handy Bash automation script that helps you **push an existing local project folder to GitHub** in just one command. No more repeating Git commands every time — this script takes care of initializing, committing, linking to a remote repo, and pushing!
 
 ---
